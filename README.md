@@ -149,4 +149,4 @@ Now go to your terminal and run ```npm start```.
 
 ![Image of Me!](https://i.imgur.com/1V0vrML.jpg)
 
-Part two will cover how to connect a stream initialized another server by utilizing the stream ID that. Stay tuned!
+This is part one of a two part series. We went over how to create your local client and get the webcam to start live streaming  on the web interface. Part two will cover how to connect two or more streams together. If you want a sneak peak, check out the ComponentDidUpdate in our AgoraVideo.js component!
